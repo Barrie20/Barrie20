@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659603904 source:c:\users\dell\desktop\programing project\c\desktop application\club_system_c\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
